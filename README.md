@@ -1,6 +1,6 @@
 # Hello World! It's me Henston Dsouza!
 
-# 💫 About Me:
+# 💫 About Me: 
 Full-stack developer specializing in MERN and MEAN stack technologies, focused on building scalable, high-performance web applications. Proficient in JavaScript and Python, with a strong foundation in modern web development practices and RESTful architectures. Experienced in designing responsive user interfaces and developing efficient backend systems. Passionate about AI engineering and driven to create intelligent, reliable, and impactful software solutions while continuously learning and adapting to new technologies.
 
 
